@@ -1,0 +1,10 @@
+{
+    "stack.connections": [
+        {
+            "server": "{Имя сервера}",
+            "database": "{Название базы}",
+            "user": "{SA}",
+            "password": "{}"
+        }
+    ]
+}
